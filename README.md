@@ -5,7 +5,7 @@
 
 
 
-###A data scientist and AI engineer passionate about NL-to-SQL, generative AI, and building intelligent, immersive systems that bridge data, creativity, and human experience.
+### A data scientist and AI engineer passionate about NL-to-SQL, generative AI, and building intelligent, immersive systems that bridge data, creativity, and human experience.
 
 ## ⚡️ Stats
 
