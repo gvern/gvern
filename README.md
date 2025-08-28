@@ -1,6 +1,4 @@
-  <a>
-    <img height=250  width=250 align="center" src="avatar.gif" />
-  </a>
+
   <h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=720&height=70&color=32CD32&duration=3500&lines=Hi+there!+👋;I'm+Gustave;Data+Scientist+%2B+AI+Engineer"
@@ -14,7 +12,9 @@
     agentic, immersive systems on Vertex AI — bridging data, creativity, and human experience.
   </em>
 </p>
-
+  <a align="center">
+    <img height=250  width=250 align="center" src="avatar.gif" />
+  </a>
 ---
 
 ## 🚀 What I do
