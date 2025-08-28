@@ -1,4 +1,7 @@
-<h1 align="center">
+  <a>
+    <img height=250  width=250 align="center" src="avatar.gif" />
+  </a>
+  <h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=720&height=70&color=32CD32&duration=3500&lines=Hi+there!+👋;I'm+Gustave;Data+Scientist+%2B+AI+Engineer"
     alt="Typing headline: Hi there! I'm Gustave — Data Scientist + AI Engineer"
