@@ -1,50 +1,90 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Gustave!;" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=720&height=70&color=32CD32&duration=3500&lines=Hi+there!+👋;I'm+Gustave;Data+Scientist+%2B+AI+Engineer"
+    alt="Typing headline: Hi there! I'm Gustave — Data Scientist + AI Engineer"
+  />
 </h1>
 
+<p align="center">
+  <em>
+    A data scientist & AI engineer turning natural-language questions into safe, executable SQL and building
+    agentic, immersive systems on Vertex AI — bridging data, creativity, and human experience.
+  </em>
+</p>
 
+---
 
-### A data scientist and AI engineer passionate about NL-to-SQL, generative AI, and building intelligent, immersive systems that bridge data, creativity, and human experience.
+## 🚀 What I do
+
+- **NL-to-SQL & Data Apps** — secure prompts, parameterized queries, IAM least-privilege, BigQuery execution.
+- **GenAI & Agents** — Vertex AI fine-tuning, evaluation pipelines, safety/robustness, Streamlit/Next.js demos.
+- **MLOps** — containers, logging/monitoring, CI/CD, batch prediction, KFP pipelines.
+
+---
 
 ## ⚡️ Stats
 
-<br>
-<div align="center">
-  <a>
-    <img height=250  width=250 align="center" src="images/cyborg_nobg.gif" />
-  </a>
-  <br>
-  <a href="https://github.com/gvern/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gvern&show_icons=true&theme=chartreuse-dark&rank_icon=github" />
-  </a>
-  <a href="https://github.com/n-pizzetta/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gvern&layout=compact&langs_count=8&card_width=200&hide_progress=true&theme=chartreuse-dark" />
-  </a>
-</div>
-
-<hr>
-
-## 🛠️ Languages and Tools
-
-<br>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,sql,fastapi,streamlit,docker,kubernetes,git,github,gitlab,gcp,aws,azure,postgres,latex,markdown,vscode,pycharm,notion" />
+  <img src="images/cyborg_nobg.gif" alt="Cyborg animation" height="200" />
 </p>
 
-<hr>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=gvern&show_icons=true&theme=chartreuse-dark&rank_icon=github"
+      alt="GitHub stats for gvern" height="150"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=gvern&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=chartreuse-dark"
+      alt="Top languages for gvern" height="150"
+    />
+  </a>
+</p>
 
-<br>
+---
 
-<div align="center">
-  <a href="vernaygustave@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+## 🧩 Featured
+
+- 🔎 **NL2SQL Gemini – Vertex AI Demo** — secure natural-language → SQL + evaluation & viz.  
+  `BigQuery • Vertex AI • FastAPI • Streamlit • KFP`
+- 🧠 **CogOS** — personal “second brain” with context, memory, 3D viz & autonomous briefing.  
+  `Next.js • FastAPI • ChromaDB • TTS/STT`
+
+*(épingle ces dépôts en haut de ton profil)*
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=py,sql,fastapi,flask,streamlit,react,nextjs,ts,js,threejs,tailwind,docker,kubernetes,git,github,gitlab,githubactions,gcp,aws,azure,postgres,mysql,sqlite,latex,markdown,vscode,pycharm,notion,obsidian,postman"
+    alt="Skill icons"
+  />
+</p>
+
+<details>
+  <summary>🔐 Security & Ops focus</summary>
+  <ul>
+    <li>Input validation, parameterized SQL, IAM least-privilege</li>
+    <li>Logging, monitoring, evaluation (execution & semantic), safety refusals</li>
+    <li>KFP pipelines, batch prediction, Vertex AI Model Registry</li>
+  </ul>
+</details>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:vernaygustave@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/gustave-vernay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+</p>
 
-
-<hr>
+---
