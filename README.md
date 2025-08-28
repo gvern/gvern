@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,js,ts,sql,fastapi,streamlit,docker,kubernetes,git,github,gitlab,gcp,aws,azure,postgres,latex,markdown,vscode,pycharm,notion,figma" />
+  <img src="https://skillicons.dev/icons?i=py,sql,fastapi,streamlit,docker,kubernetes,git,github,gitlab,gcp,aws,azure,postgres,latex,markdown,vscode,pycharm,notion" />
 </p>
 
 <hr>
