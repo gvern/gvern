@@ -10,7 +10,18 @@
 ## ⚡️ Stats
 
 <br>
-
+<div align="center">
+  <a>
+    <img height=250  width=250 align="center" src="images/cyborg_nobg.gif" />
+  </a>
+  <br>
+  <a href="https://github.com/gvern/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gvern&show_icons=true&theme=chartreuse-dark&rank_icon=github" />
+  </a>
+  <a href="https://github.com/n-pizzetta/convoychat">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-pizzetta&layout=compact&langs_count=8&card_width=200&hide_progress=true&theme=chartreuse-dark" />
+  </a>
+</div>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=gvern&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Gustave's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=gvern&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Gustave's" />
