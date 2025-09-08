@@ -12,8 +12,7 @@
 
 <p align="center">
   <em>
-    A data scientist & AI engineer turning natural-language questions into safe, executable SQL and building
-    agentic, immersive systems on Vertex AI — bridging data, creativity, and human experience.
+    AI and data engineer exploring how intelligence, systems, and human creativity can be connected to build meaningful innovations.
   </em>
 </p>
 
