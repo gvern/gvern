@@ -56,8 +56,6 @@
 - 🧠 **CogOS** — personal “second brain” with context, memory, 3D viz & autonomous briefing.  
   `Next.js • FastAPI • ChromaDB • TTS/STT`
 
-*(épingle ces dépôts en haut de ton profil)*
-
 ---
 
 ## 🛠️ Languages & Tools
